@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/199465ab9eb34281b84a5f5f7ff326f4/artifacts
+end_time: 1752451097749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 199465ab9eb34281b84a5f5f7ff326f4
+run_name: powerful-lark-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451095579
+status: 3
+tags: []
+user_id: javedhassansabu

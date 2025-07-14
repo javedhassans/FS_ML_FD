@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/4db6efa68d024033b29d7ca551dbc131/artifacts
+end_time: 1752451070714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4db6efa68d024033b29d7ca551dbc131
+run_name: serious-asp-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451068439
+status: 3
+tags: []
+user_id: javedhassansabu

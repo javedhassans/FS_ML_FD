@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/63c8d1b6adc2408084c1d76410e37147/artifacts
+end_time: 1752451068435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63c8d1b6adc2408084c1d76410e37147
+run_name: judicious-steed-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451066131
+status: 3
+tags: []
+user_id: javedhassansabu

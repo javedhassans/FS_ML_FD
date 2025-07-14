@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/1543707db041439db79c85d0c40e28ae/artifacts
+end_time: 1752451093431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1543707db041439db79c85d0c40e28ae
+run_name: shivering-skink-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451091265
+status: 3
+tags: []
+user_id: javedhassansabu

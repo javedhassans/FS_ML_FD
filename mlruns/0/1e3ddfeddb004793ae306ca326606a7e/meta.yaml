@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/1e3ddfeddb004793ae306ca326606a7e/artifacts
+end_time: 1752451089001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e3ddfeddb004793ae306ca326606a7e
+run_name: orderly-dove-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451086641
+status: 3
+tags: []
+user_id: javedhassansabu

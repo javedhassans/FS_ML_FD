@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/d1f7f43f62e74ed1a77f274d857ca4de/artifacts
+end_time: 1752451075080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1f7f43f62e74ed1a77f274d857ca4de
+run_name: unique-sloth-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451073012
+status: 3
+tags: []
+user_id: javedhassansabu

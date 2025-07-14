@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/7c892dfefaae4b91a82d91c1fa873232/artifacts
+end_time: 1752451066115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c892dfefaae4b91a82d91c1fa873232
+run_name: treasured-vole-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451063982
+status: 3
+tags: []
+user_id: javedhassansabu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/0c46373c07484b37ba374c72392c866a/artifacts
+end_time: 1752451089000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c46373c07484b37ba374c72392c866a
+run_name: hilarious-ram-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451086655
+status: 3
+tags: []
+user_id: javedhassansabu

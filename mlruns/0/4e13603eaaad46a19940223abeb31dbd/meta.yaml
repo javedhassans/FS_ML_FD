@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/4e13603eaaad46a19940223abeb31dbd/artifacts
+end_time: 1752451061762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e13603eaaad46a19940223abeb31dbd
+run_name: classy-skunk-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451059694
+status: 3
+tags: []
+user_id: javedhassansabu

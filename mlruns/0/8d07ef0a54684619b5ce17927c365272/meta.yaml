@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/8d07ef0a54684619b5ce17927c365272/artifacts
+end_time: 1752451079628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d07ef0a54684619b5ce17927c365272
+run_name: fortunate-cod-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451077404
+status: 3
+tags: []
+user_id: javedhassansabu

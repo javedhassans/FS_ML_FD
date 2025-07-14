@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/e12329b7499d48bfa8dfd208916fe72e/artifacts
+end_time: 1752451091247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e12329b7499d48bfa8dfd208916fe72e
+run_name: wise-goose-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451089020
+status: 3
+tags: []
+user_id: javedhassansabu

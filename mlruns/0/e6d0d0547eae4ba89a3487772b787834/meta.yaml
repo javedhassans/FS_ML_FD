@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/e6d0d0547eae4ba89a3487772b787834/artifacts
+end_time: 1752450677021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6d0d0547eae4ba89a3487772b787834
+run_name: clumsy-robin-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752450677006
+status: 4
+tags: []
+user_id: javedhassansabu

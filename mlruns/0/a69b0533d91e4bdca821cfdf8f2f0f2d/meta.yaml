@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/a69b0533d91e4bdca821cfdf8f2f0f2d/artifacts
+end_time: 1752451097747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a69b0533d91e4bdca821cfdf8f2f0f2d
+run_name: likeable-wren-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451095592
+status: 3
+tags: []
+user_id: javedhassansabu

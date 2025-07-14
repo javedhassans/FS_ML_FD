@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/4b9040ebe7954b158800d0e738340dbf/artifacts
+end_time: 1752451072994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b9040ebe7954b158800d0e738340dbf
+run_name: casual-swan-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451070718
+status: 3
+tags: []
+user_id: javedhassansabu

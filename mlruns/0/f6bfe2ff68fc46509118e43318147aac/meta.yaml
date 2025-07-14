@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/f6bfe2ff68fc46509118e43318147aac/artifacts
+end_time: 1752451066114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6bfe2ff68fc46509118e43318147aac
+run_name: overjoyed-zebra-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451063995
+status: 3
+tags: []
+user_id: javedhassansabu

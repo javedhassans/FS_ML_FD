@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/a92938a1b9324f0187b5345cde67aad2/artifacts
+end_time: 1752451077400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a92938a1b9324f0187b5345cde67aad2
+run_name: righteous-bat-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451075097
+status: 3
+tags: []
+user_id: javedhassansabu

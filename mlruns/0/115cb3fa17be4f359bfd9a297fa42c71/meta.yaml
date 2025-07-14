@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/115cb3fa17be4f359bfd9a297fa42c71/artifacts
+end_time: 1752451084310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 115cb3fa17be4f359bfd9a297fa42c71
+run_name: unleashed-koi-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451081855
+status: 3
+tags: []
+user_id: javedhassansabu

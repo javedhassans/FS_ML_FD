@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/f1d97a13c12f49fa99871ecee49f1477/artifacts
+end_time: 1752451077401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1d97a13c12f49fa99871ecee49f1477
+run_name: nebulous-goose-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451075084
+status: 3
+tags: []
+user_id: javedhassansabu

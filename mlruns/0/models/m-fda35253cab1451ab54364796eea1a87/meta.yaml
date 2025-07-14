@@ -1,0 +1,10 @@
+artifact_location: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/models/m-fda35253cab1451ab54364796eea1a87/artifacts
+creation_timestamp: 1752451057696
+experiment_id: '0'
+last_updated_timestamp: 1752451059675
+model_id: m-fda35253cab1451ab54364796eea1a87
+model_type: null
+name: model
+source_run_id: e5c961cdfb9248818b128d2f5236c41d
+status: 2
+status_message: null

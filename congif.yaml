@@ -1,0 +1,23 @@
+experiment:
+  name: "breast_cancer_experiment"
+
+data:
+  test_size: 0.2
+  random_state: 42
+
+training:
+  model_type: "random_forest" # or "xgboost"
+
+search:
+  max_evals: 20
+
+hyperparams:
+  random_forest:
+    n_estimators: [50, 100, 150]
+    max_depth: [3, 5, 10, 20]
+    criterion: ["gini", "entropy"]
+
+  xgboost:
+    n_estimators: [50, 100, 150]
+    max_depth: [3, 5, 10]
+    learning_rate: [0.01, 0.1, 0.2]

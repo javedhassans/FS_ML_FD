@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/6e6c0787145e4557a2f018ffb847be78/artifacts
+end_time: 1752451075081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e6c0787145e4557a2f018ffb847be78
+run_name: gifted-toad-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451072998
+status: 3
+tags: []
+user_id: javedhassansabu

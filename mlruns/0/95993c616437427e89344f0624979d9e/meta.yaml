@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/95993c616437427e89344f0624979d9e/artifacts
+end_time: 1752449841879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95993c616437427e89344f0624979d9e
+run_name: stately-calf-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752449841740
+status: 4
+tags: []
+user_id: javedhassansabu

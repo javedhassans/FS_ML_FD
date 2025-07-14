@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/4087c166eb654e5183053854f9d2a030/artifacts
+end_time: 1752449995547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4087c166eb654e5183053854f9d2a030
+run_name: rare-bat-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752449992939
+status: 3
+tags: []
+user_id: javedhassansabu

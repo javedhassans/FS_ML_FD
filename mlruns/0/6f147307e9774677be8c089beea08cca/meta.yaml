@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/6f147307e9774677be8c089beea08cca/artifacts
+end_time: 1752451068436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f147307e9774677be8c089beea08cca
+run_name: smiling-shrike-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451066118
+status: 3
+tags: []
+user_id: javedhassansabu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/49008b4ae26049f587c8d3c8827d4a2a/artifacts
+end_time: 1752451091249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49008b4ae26049f587c8d3c8827d4a2a
+run_name: tasteful-moose-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451089005
+status: 3
+tags: []
+user_id: javedhassansabu

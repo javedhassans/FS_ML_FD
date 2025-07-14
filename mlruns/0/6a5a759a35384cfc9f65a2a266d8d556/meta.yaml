@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/6a5a759a35384cfc9f65a2a266d8d556/artifacts
+end_time: 1752451081850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a5a759a35384cfc9f65a2a266d8d556
+run_name: unruly-lamb-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451079645
+status: 3
+tags: []
+user_id: javedhassansabu

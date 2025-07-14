@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/e5c961cdfb9248818b128d2f5236c41d/artifacts
+end_time: 1752451059677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5c961cdfb9248818b128d2f5236c41d
+run_name: whimsical-snipe-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451057547
+status: 3
+tags: []
+user_id: javedhassansabu

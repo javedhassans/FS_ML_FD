@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/998f925ec9224697bb92190c33859a28/artifacts
+end_time: 1752451086637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 998f925ec9224697bb92190c33859a28
+run_name: lyrical-ant-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451084331
+status: 3
+tags: []
+user_id: javedhassansabu

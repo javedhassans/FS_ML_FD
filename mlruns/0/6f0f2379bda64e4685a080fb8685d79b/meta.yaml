@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/6f0f2379bda64e4685a080fb8685d79b/artifacts
+end_time: 1752451057529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f0f2379bda64e4685a080fb8685d79b
+run_name: efficient-gnat-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451055070
+status: 3
+tags: []
+user_id: javedhassansabu

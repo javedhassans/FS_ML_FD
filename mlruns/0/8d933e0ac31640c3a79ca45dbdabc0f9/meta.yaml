@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/8d933e0ac31640c3a79ca45dbdabc0f9/artifacts
+end_time: 1752451063978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d933e0ac31640c3a79ca45dbdabc0f9
+run_name: youthful-hawk-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451061767
+status: 3
+tags: []
+user_id: javedhassansabu

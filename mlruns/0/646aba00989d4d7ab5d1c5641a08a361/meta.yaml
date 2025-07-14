@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/646aba00989d4d7ab5d1c5641a08a361/artifacts
+end_time: 1752451059678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646aba00989d4d7ab5d1c5641a08a361
+run_name: abrasive-horse-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451057533
+status: 3
+tags: []
+user_id: javedhassansabu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/6cca0a7add264693a3c5c4a7a8412010/artifacts
+end_time: 1752451099913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cca0a7add264693a3c5c4a7a8412010
+run_name: calm-horse-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451097765
+status: 3
+tags: []
+user_id: javedhassansabu

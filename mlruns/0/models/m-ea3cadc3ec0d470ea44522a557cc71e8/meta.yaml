@@ -1,0 +1,10 @@
+artifact_location: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/models/m-ea3cadc3ec0d470ea44522a557cc71e8/artifacts
+creation_timestamp: 1752451091418
+experiment_id: '0'
+last_updated_timestamp: 1752451093429
+model_id: m-ea3cadc3ec0d470ea44522a557cc71e8
+model_type: null
+name: model
+source_run_id: 1543707db041439db79c85d0c40e28ae
+status: 2
+status_message: null

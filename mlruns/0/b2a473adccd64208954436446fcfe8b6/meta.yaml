@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/b2a473adccd64208954436446fcfe8b6/artifacts
+end_time: 1752450550376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2a473adccd64208954436446fcfe8b6
+run_name: carefree-wasp-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752450550355
+status: 4
+tags: []
+user_id: javedhassansabu

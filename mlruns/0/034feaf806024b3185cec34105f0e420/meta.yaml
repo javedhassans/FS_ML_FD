@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/034feaf806024b3185cec34105f0e420/artifacts
+end_time: 1752451099914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 034feaf806024b3185cec34105f0e420
+run_name: puzzled-pig-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451097752
+status: 3
+tags: []
+user_id: javedhassansabu

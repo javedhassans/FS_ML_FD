@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/javedhassansabu/projects/FS_ML_FD/mlruns/0/eff7af41ac674e768d738407a758576e/artifacts
+end_time: 1752451061763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eff7af41ac674e768d738407a758576e
+run_name: incongruous-rook-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752451059682
+status: 3
+tags: []
+user_id: javedhassansabu
